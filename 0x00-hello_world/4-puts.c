@@ -1,7 +1,11 @@
 #include <stdio.h>
 /**
- *  main prints "Programming is like building a multilingual puzzle 
- */
+* main - print the string in the put function
+* description is: using the main function
+* this program prints "Programming is like building a multilingual puzzle"
+* Return is: 0
+*/
+
 int main(void)
 {
 puts("\"Programming is like building a multilingual puzzle");
